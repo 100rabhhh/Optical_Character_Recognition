@@ -62,5 +62,9 @@ for detection in result:
     </ul>
     <h2>🔚 Conclusion</h2>
     <p>This project showcases how Optical Character Recognition (OCR) can be effectively implemented using Python libraries such as EasyOCR and OpenCV. It demonstrates the ability to accurately detect and extract text from images, making it a powerful tool for text recognition tasks. The project's flexible and simple implementation allows for future enhancements, such as adding more languages and improving batch processing capabilities.</p>
+    <h2>👥 Credits</h2>
+    <p>Built by <a href="https://github.com/100rabhhh">Sourabh Jha</a></p>
+    <h2>📄 License</h2>
+    <p>This project is licensed under the MIT License.</p>
 </body>
 </html>
